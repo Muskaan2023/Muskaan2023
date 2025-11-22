@@ -4,7 +4,7 @@
 🔐 Interested in cybersecurity, ethical hacking, and AI safety  
 💡 Projects: Deepfake Detection | File Integrity Monitoring System  
 📚 Certified in Blockchain (NPTEL) & Networking (Google - Coursera)  
-🌱 Learning Java, C++, and Python  
-📄 Resume: Coming soon!
+🌱 Learning Java  
+
 
 
