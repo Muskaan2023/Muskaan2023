@@ -1,16 +1,74 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muskaan2023/Muskaan2023/main/banner.png" />
+</p>
+<h1 align="center">Hi 👋, I'm Muskaan Khatoon</h1>
+<h3 align="center">B.Tech CSE (Cyber Security & Digital Forensics) | VIT Bhopal</h3>
 
-<!--
-**Muskaan2023/Muskaan2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muskaan2023&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Pre-final year B.Tech student at VIT Bhopal  
+- 🔐 Passionate about Cybersecurity & Ethical Hacking  
+- 💻 Building projects in Java & Security  
+- 🌱 Currently learning DSA, Networking & Advanced Security  
+- 🎯 Goal: To become a skilled Cybersecurity Professional  
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Muskaan2023">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:muskaankhatoon2003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/muskaan-khatoon-099062289/"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muskaan2023&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskaan2023&theme=tokyonight" />
+</p>
+
+---
+
+
+## 📈 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskaan2023&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+## 💡 Quote
+
+> “Security is not a product, but a process.” 🔐
