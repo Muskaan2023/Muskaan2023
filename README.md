@@ -71,4 +71,4 @@
 
 ## 💡 Quote
 
-> “AI is the new electricity.” 🔐
+> “AI is the new electricity.” 
