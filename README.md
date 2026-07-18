@@ -71,4 +71,4 @@
 
 ## 💡 Quote
 
-> “Security is not a product, but a process.” 🔐
+> “AI is the new electricity.” 🔐
