@@ -12,18 +12,18 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pre-final year B.Tech student at VIT Bhopal  
-- 🔐 Passionate about Cybersecurity & Ethical Hacking  
-- 💻 Building projects in Java & Security  
-- 🌱 Currently learning DSA, Networking & Advanced Security  
-- 🎯 Goal: To become a skilled Cybersecurity Professional  
+- 🎓 final year B.Tech student at VIT Bhopal  
+- 🔐 Passionate about AI & ML
+- 💻 Building projects in Java & Python
+- 🌱 Currently learning DSA
+- 🎯 Goal: To become a skilled AI Engineer 
 
 ---
 
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,github,vscode,php" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,github,vscode,pandas,numpy" />
 </p>
 
 ---
