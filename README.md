@@ -50,10 +50,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Muskaan2023&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muskaan2023&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -67,7 +63,7 @@
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskaan2023&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muskaan2023&layout=compact&theme=tokyonight" />
 </p>
 
 ---
