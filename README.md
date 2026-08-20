@@ -13,10 +13,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 final year B.Tech student at VIT Bhopal  
-- 🔐 Passionate about AI & ML
+- 🔐 Passionate about Hacking
 - 💻 Building projects in Java & Python
 - 🌱 Currently learning DSA
-- 🎯 Goal: To become a skilled AI Engineer 
+- 🎯 Goal: To become a skilled Ethical Hacker
 
 ---
 
@@ -71,4 +71,4 @@
 
 ## 💡 Quote
 
-> “AI is the new electricity.” 
+> “Build, if you want.” 
