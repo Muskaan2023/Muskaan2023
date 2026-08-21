@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muskaan2023/Muskaan2023/main/banner(2).png" />
+  <img src="https://raw.githubusercontent.com/Muskaan2023/Muskaan2023/main/banner (2).png" />
 </p>
 <h1 align="center">Hi 👋, I'm Muskaan Khatoon</h1>
 <h3 align="center">B.Tech CSE (Cyber Security & Digital Forensics) | VIT Bhopal</h3>
