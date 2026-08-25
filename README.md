@@ -23,7 +23,7 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,github,vscode,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,github,vscode,pandas,numpy" />
 </p>
 
 ---
